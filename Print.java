@@ -1,6 +1,6 @@
-class Hello{  
+class Print{  
     public static void main(String[] args){  
-    System.out.println("This is java application "); 
-    System.out.println("This is java app by using Jenkins"); 
+    System.out.println("This is java application or online repo automation using jenkins"); 
+    
     }  
     }  
